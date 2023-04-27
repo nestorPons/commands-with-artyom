@@ -1,0 +1,113 @@
+[{
+        "id": 1,
+        "name": "",
+        "code": "stop",
+        "command": ["Stop", "Parate"],
+        "action": ""
+    },
+    {
+        "id": 2,
+        "name": "",
+        "code": "tleft",
+        "command": ["Turn left", "Gira a la izquierda"],
+        "action": ""
+    },
+    {
+        "id": 3,
+        "name": "",
+        "code": "tright",
+        "command": ["Turn right", "Gira a la derecha"],
+        "action": ""
+    },
+    {
+        "id": 4,
+        "name": "",
+        "code": "follow me",
+        "command": ["Follow me", "Sigueme"],
+        "action": ""
+    },
+    {
+        "id": 5,
+        "name": "",
+        "code": "explarea",
+        "command": ["Explore the area"],
+        "action": ""
+    },
+    {
+        "id": 6,
+        "name": "",
+        "code": "returncharging",
+        "command": ["Return to the charging dock"],
+        "action": ""
+    },
+    {
+        "id": 7,
+        "name": "",
+        "code": "pausetask",
+        "command": ["Pause the current task"],
+        "action": ""
+    },
+    {
+        "id": 8,
+        "name": "",
+        "code": "resumetask",
+        "command": ["Resume the current task"],
+        "action": ""
+    },
+    {
+        "id": 9,
+        "name": "",
+        "code": "more speed",
+        "command": ["Increase speed"],
+        "action": ""
+    },
+    {
+        "id": 10,
+        "name": "",
+        "code": "lessspeed",
+        "command": ["Decrease speed"],
+        "action": ""
+    },
+    {
+        "id": 11,
+        "name": "",
+        "code": "avoid",
+        "command": ["Avoid obstacles"],
+        "action": ""
+    },
+    {
+        "id": 12,
+        "name": "",
+        "code": "detectobjects",
+        "command": ["Detect nearby objects"],
+        "action": ""
+    },
+    {
+        "id": 13,
+        "name": "",
+        "code": "reportbatery",
+        "command": ["Report battery level"],
+        "action": ""
+    },
+    {
+        "id": 14,
+        "name": "",
+        "code": "reportstatus",
+        "command": ["Report status"],
+        "action": ""
+    },
+    {
+        "id": 15,
+        "name": "",
+        "code": "selfdiagnostic",
+        "command": ["Initiate self-diagnostic"],
+        "action": ""
+    },
+    {
+        "id": 16,
+        "name": "",
+        "code": "off",
+        "command": ["Power off"],
+        "action": ""
+    }
+]
